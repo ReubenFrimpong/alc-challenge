@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC Challenge</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ACL</string>
+    <string name="profile_text">MY PROFILE</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="name">Reuben Frimpong</string>
+    <string name="track_name">Android</string>
+    <string name="track_title">Track : </string>
+    <string name="country_title">Country : </string>
+    <string name="country_name">Ghana</string>
+    <string name="email_title">Email : </string>
+    <string name="email_text">frimpongreuben66@gmail.com</string>
+    <string name="phone_title">Phone Number :</string>
+    <string name="phone_text">233246748016</string>
+    <string name="slack_title">Slack Username :</string>
+    <string name="slack_text">\@Reuben</string>
+</resources>
